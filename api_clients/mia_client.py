@@ -20,7 +20,7 @@ except KeyError:
 
 class MiaAPI:
     def get_mia_building_details() -> requests.Response:
-
+        
         building_details_url = (
             f"{MIA_API_BASE_URL}{MIA_API_VERSION_PATH}{MIA_API_PATH_BUILDING_DETAILS}"
         )
