@@ -25,10 +25,10 @@ jobs:
       - name: execute py script
         env:
           MIA_API_TOKEN: ${{ secrets.MIA_API_TOKEN }}
-          CONSUMER_KEY = ${{ secrets.CONSUMER_KEY }}
-          CONSUMER_SECRET = ${{ CONSUMER_SECRET }}
-          ACCESS_TOKEN = ${{ ACCESS_TOKEN }}
-          ACCESS_TOKEN_SECRET = ${{ ACCESS_TOKEN_SECRET }}
+          CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+          CONSUMER_SECRET: ${{ CONSUMER_SECRET }}
+          ACCESS_TOKEN: ${{ ACCESS_TOKEN }}
+          ACCESS_TOKEN_SECRET: ${{ ACCESS_TOKEN_SECRET }}
         run: python main.py
           
       - name: commit files
