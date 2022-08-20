@@ -4,7 +4,7 @@ from requests import Response
 from requests.exceptions import RequestException
 from typing import Tuple, Union
 
-from api_clients.exceptions import CredentialsNotFoundError
+from apis.exceptions import CredentialsNotFoundError
 
 
 MIA_API_BASE_URL = "https://modernism-in-architecture.org/"
