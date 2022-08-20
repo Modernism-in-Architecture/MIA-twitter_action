@@ -1,41 +1,39 @@
-from typing import Tuple
-import tweepy
 import os
-import logging
+from typing import Tuple, Union
 
-logger = logging.getLogger(__name__)
+import tweepy
+from tweepy.errors import TweepyException
+
+from api_clients.exceptions import CredentialsNotFoundError
 
 
 try:
     CONSUMER_KEY = os.environ["CONSUMER_KEY"]
-    CONSUMER_SECRET =  os.environ["CONSUMER_SECRET"]
-    ACCESS_TOKEN =  os.environ["ACCESS_TOKEN"]
-    ACCESS_TOKEN_SECRET =  os.environ["ACCESS_TOKEN_SECRET"]
-except KeyError:
-    logger.info("Twitter credentials not available!")
-    raise
+    CONSUMER_SECRET = os.environ["CONSUMER_SECRET"]
+    ACCESS_TOKEN = os.environ["ACCESS_TOKEN"]
+    ACCESS_TOKEN_SECRET = os.environ["ACCESS_TOKEN_SECRET"]
+except KeyError as e:
+    raise CredentialsNotFoundError(e)
 
 
 class TwitterAPI:
-
     def get_client() -> tweepy.Client:
-    
+
         return tweepy.Client(
             consumer_key=CONSUMER_KEY,
             consumer_secret=CONSUMER_SECRET,
             access_token=ACCESS_TOKEN,
-            access_token_secret=ACCESS_TOKEN_SECRET
+            access_token_secret=ACCESS_TOKEN_SECRET,
         )
 
-    
-    def tweet_mia_building(tweet_content: str) -> Tuple:
+    def tweet_mia_building(
+        tweet_content: str,
+    ) -> Tuple[Union[TweepyException, dict], bool]:
         client = TwitterAPI.get_client()
 
         try:
-            response = client.create_tweet(
-                text=tweet_content
-            )
-        except tweepy.errors.TweepyException as error:
-            return error, False
-        
+            response = client.create_tweet(text=tweet_content)
+        except TweepyException as err:
+            return err, False
+
         return response, True
