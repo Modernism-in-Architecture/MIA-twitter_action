@@ -1,5 +1,5 @@
-from api_clients.twitter_client import TwitterAPI
-from api_clients.mia_client import MiaAPI
+from apis.twitter_api import TwitterAPI
+from apis.mia_api import MiaAPI
 import logging
 import logging.handlers
 

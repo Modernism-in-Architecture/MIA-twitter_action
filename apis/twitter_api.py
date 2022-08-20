@@ -4,7 +4,7 @@ from typing import Tuple, Union
 import tweepy
 from tweepy.errors import TweepyException
 
-from api_clients.exceptions import CredentialsNotFoundError
+from apis.exceptions import CredentialsNotFoundError
 
 
 try:
