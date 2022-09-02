@@ -45,6 +45,9 @@ def main() -> bool:
 
     tweet_content = f"""New on MIA: {title} by {architect} ({year}) in {city}, {country}\n#modernism #architecture #bauhaus #neuesbauen #internationalstyle #interwararchitecture #{city} #{country}\n{url}"""
 
+    if not architect:
+        tweet_content = f"""New on MIA: {title} ({year}) in {city}, {country}\n#modernism #architecture #bauhaus #neuesbauen #internationalstyle #interwararchitecture #{city} #{country}\n{url}"""
+    
     twitter_response, was_successful = TwitterAPI.tweet_mia_building(tweet_content)
 
     if not was_successful:
