@@ -39,3 +39,5 @@
 2022-09-27 17:53:35,237 - __main__ - INFO - Successfully published Train station (nádraží) Poděbrady on twitter.
 2022-09-28 17:55:47,528 - __main__ - INFO - Successfully published Train station (nádraží) Roudnice nad Labem on twitter.
 2022-09-29 17:52:38,573 - __main__ - INFO - Successfully published Stadium (stadio) Artemio Franchi on twitter.
+2022-09-30 17:52:21,872 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
