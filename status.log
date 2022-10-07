@@ -51,3 +51,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2022-10-05 17:58:49,558 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2022-10-06 17:49:55,380 - __main__ - INFO - Successfully published Villa Volman (Volmanova vila) on twitter.
+2022-10-07 17:56:28,426 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
