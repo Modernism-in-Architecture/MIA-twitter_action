@@ -61,3 +61,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2022-10-11 17:49:34,655 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
+2022-10-12 17:57:21,187 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
