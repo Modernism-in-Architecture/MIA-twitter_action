@@ -43,7 +43,7 @@ def main() -> bool:
     architect = building_details.get("architect")
     url = building_details.get("absoluteURL")
 
-    tweet_content = f"""New on MIA: {title} by {architect} ({year}) in {city}, {country}\n#modernism #architecture #bauhaus #neuesbauen #internationalstyle #interwararchitecture #{city} #{country}\n{url}"""
+    tweet_content = f"""New on MIA: {title} by {architect} ({year}) in {city}, {country}\n#modernism #architecture #bauhaus #neuesbauen #internationalstyle #interwararchitecture #{"".join(city.split(" "))} #{country}\n{url}"""
 
     if not architect:
         tweet_content = f"""New on MIA: {title} ({year}) in {city}, {country}\n#modernism #architecture #bauhaus #neuesbauen #internationalstyle #interwararchitecture #{"".join(city.split(" "))} #{country}\n{url}"""
