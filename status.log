@@ -119,3 +119,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2022-12-05 17:29:59,751 - __main__ - INFO - Successfully published Na Nábřeží 29 on twitter.
 2022-12-06 17:30:17,936 - __main__ - INFO - Successfully published Forstwerder Bridge (Forstwerderbrücke) on twitter.
 2022-12-07 17:30:23,568 - __main__ - INFO - Successfully published Transformer station with snack stand and petrol station on twitter.
+2022-12-08 17:30:06,254 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
