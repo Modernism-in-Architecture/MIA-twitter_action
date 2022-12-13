@@ -128,3 +128,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2022-12-11 17:29:21,353 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2022-12-12 17:30:25,570 - __main__ - INFO - Successfully published Kral's villa (Kralova vila) on twitter.
+2022-12-13 17:29:42,632 - __main__ - INFO - Successfully published Home for single persons (Ledigenheim) on twitter.
