@@ -143,3 +143,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2022-12-25 17:28:03,191 - __main__ - INFO - Successfully published Charge of God's Warriors (Sbor Božích bojovníků) on twitter.
 2022-12-26 17:27:56,305 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
+2022-12-27 17:28:05,872 - __main__ - INFO - Successfully published People's House (Volkshaus) Nonnewitz on twitter.
