@@ -147,3 +147,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2022-12-28 17:28:16,692 - __main__ - INFO - Successfully published Savings bank (Sparkasse) Taucha on twitter.
 2022-12-29 17:28:19,047 - __main__ - INFO - Successfully published Smetanova 2 on twitter.
 2022-12-30 17:27:56,440 - __main__ - INFO - Successfully published Glass Palace (Skleněný palác) on twitter.
+2022-12-31 17:27:53,276 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
