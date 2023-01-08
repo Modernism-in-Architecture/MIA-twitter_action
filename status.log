@@ -163,3 +163,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-01-07 17:27:57,344 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
+2023-01-08 17:27:58,752 - __main__ - INFO - Successfully published Association of health insurance companies Sachsen-Anhalt on twitter.
