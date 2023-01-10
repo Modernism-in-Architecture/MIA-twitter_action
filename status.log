@@ -165,3 +165,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-01-08 17:27:58,752 - __main__ - INFO - Successfully published Association of health insurance companies Sachsen-Anhalt on twitter.
 2023-01-09 17:32:21,908 - __main__ - INFO - Successfully published Masters' Houses (Meisterhäuser) on twitter.
+2023-01-10 17:31:55,734 - __main__ - INFO - Successfully published Atelier Kind on twitter.
