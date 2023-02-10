@@ -196,3 +196,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-02-08 17:30:06,342 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-02-09 17:30:13,681 - __main__ - INFO - Successfully published Berthold's house on twitter.
+2023-02-10 17:30:35,198 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
