@@ -201,3 +201,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-02-11 17:28:18,896 - __main__ - INFO - Successfully published Uncle Tom's Cabin (Onkel Toms Hütte) on twitter.
 2023-02-12 17:28:01,578 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
+2023-02-13 17:30:30,482 - __main__ - INFO - Successfully published Underground station Onkel Toms Hütte on twitter.
