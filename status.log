@@ -206,3 +206,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-02-15 17:30:34,739 - __main__ - INFO - Successfully published Berlin S-Bahn station Humboldthain on twitter.
 2023-02-16 17:29:01,448 - __main__ - INFO - Successfully published Tram depot and workshop (Hauptwerkstatt) Uferstraße on twitter.
+2023-02-17 17:29:55,056 - __main__ - INFO - Successfully published Friedrich-Ebert-Siedlung on twitter.
