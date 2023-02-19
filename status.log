@@ -208,3 +208,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-02-16 17:29:01,448 - __main__ - INFO - Successfully published Tram depot and workshop (Hauptwerkstatt) Uferstraße on twitter.
 2023-02-17 17:29:55,056 - __main__ - INFO - Successfully published Friedrich-Ebert-Siedlung on twitter.
 2023-02-18 17:28:50,589 - __main__ - INFO - Successfully published I.G. Farben Aceta on twitter.
+2023-02-19 17:28:39,403 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
