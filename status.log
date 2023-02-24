@@ -218,3 +218,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-02-23 17:31:24,629 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
+2023-02-24 17:31:08,000 - __main__ - INFO - Successfully published Gustav Adolf Church (Gustav-Adolf-Kirche) on twitter.
