@@ -224,3 +224,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-02-26 17:29:05,756 - __main__ - INFO - Successfully published Music school (Musikheim) on twitter.
 2023-02-27 17:31:27,737 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
+2023-02-28 17:31:15,541 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
