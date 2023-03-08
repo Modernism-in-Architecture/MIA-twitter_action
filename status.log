@@ -236,3 +236,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-03-06 17:31:49,193 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-03-07 17:31:03,417 - __main__ - INFO - Successfully published District Court (Amtsgericht) on twitter.
+2023-03-08 17:31:16,157 - __main__ - INFO - Successfully published Elizabeth School (Elisabethschule) on twitter.
