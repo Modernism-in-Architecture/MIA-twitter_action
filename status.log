@@ -240,3 +240,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-03-09 17:31:36,120 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-03-10 17:30:37,330 - __main__ - INFO - Successfully published Builders' School (Baugewerkschule) on twitter.
+2023-03-11 17:28:03,608 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
