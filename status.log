@@ -249,3 +249,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-03-15 17:31:02,976 - __main__ - INFO - Successfully published Diesterweg School (Diesterwegschule) on twitter.
 2023-03-16 17:30:20,741 - __main__ - INFO - Successfully published Pedagogical Academy (Pädagogische Akademie) on twitter.
+2023-03-17 17:29:27,942 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
