@@ -255,3 +255,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-03-19 17:28:21,455 - __main__ - INFO - Successfully published School (Schule) Belleben on twitter.
 2023-03-20 17:30:08,120 - __main__ - INFO - Successfully published Elementary School (Grundschule) Wettin on twitter.
+2023-03-21 17:28:03,838 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
