@@ -266,3 +266,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-03-25 17:28:00,503 - __main__ - INFO - Successfully published National Grammar School (Staatliches Lyzeum) and Grammar School (Oberlyzeum) on twitter.
 2023-03-26 17:28:00,337 - __main__ - INFO - Successfully published Masaryk District Technical College (Masarykova zemská průmyslová škola) on twitter.
 2023-03-27 17:29:37,213 - __main__ - INFO - Successfully published School Malwida von Meysenbug (Malwida-von-Meysenbug-Schule) on twitter.
+2023-03-28 17:29:50,154 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 403 Forbidden
+Your account is temporarily locked. Please log in to https://twitter.com to unlock your account.
