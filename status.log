@@ -284,3 +284,5 @@ Your account is temporarily locked. Please log in to https://twitter.com to unlo
 Your account is temporarily locked. Please log in to https://twitter.com to unlock your account.
 2023-04-05 17:29:53,505 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 403 Forbidden
 Your account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2023-04-06 17:28:08,593 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 403 Forbidden
+Your account is temporarily locked. Please log in to https://twitter.com to unlock your account.
