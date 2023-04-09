@@ -290,3 +290,4 @@ Your account is temporarily locked. Please log in to https://twitter.com to unlo
 Your account is temporarily locked. Please log in to https://twitter.com to unlock your account.
 2023-04-08 17:27:53,076 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 403 Forbidden
 Your account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2023-04-09 17:28:01,578 - __main__ - INFO - Successfully published Křišťanova 15 on twitter.
