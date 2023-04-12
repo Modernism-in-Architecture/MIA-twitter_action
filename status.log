@@ -294,3 +294,5 @@ Your account is temporarily locked. Please log in to https://twitter.com to unlo
 2023-04-10 17:27:55,755 - __main__ - INFO - Successfully published Retirement home Marie von Boschan-Aschrott (Marie-von-Boschan-Aschrott-Altersheim) on twitter.
 2023-04-11 17:28:01,415 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
+2023-04-12 17:27:52,321 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
