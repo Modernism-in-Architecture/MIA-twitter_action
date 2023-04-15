@@ -299,3 +299,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-04-13 17:27:58,389 - __main__ - INFO - Successfully published Rothenberg on twitter.
 2023-04-14 17:27:56,958 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
+2023-04-15 17:27:58,830 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
