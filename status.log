@@ -316,3 +316,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-04-22 17:28:05,746 - __main__ - INFO - Successfully published Grotte (Bytový dům manželů Grotteových) on twitter.
 2023-04-23 17:28:02,791 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
+2023-04-24 17:27:56,196 - __main__ - INFO - Successfully published Muscats Motors on twitter.
