@@ -329,3 +329,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-05-01 17:28:07,399 - __main__ - INFO - Successfully published Forest cafe (Waldcafé) on twitter.
 2023-05-02 17:28:16,256 - __main__ - INFO - Successfully published Pappelhof on twitter.
+2023-05-03 17:28:03,049 - __main__ - INFO - Successfully published Beneš bridge (Most Dr. E. Beneše) on twitter.
