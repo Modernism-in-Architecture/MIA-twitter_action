@@ -343,3 +343,5 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-05-14 17:27:57,899 - __main__ - INFO - Successfully published Silberteichbaude on twitter.
 2023-05-15 17:28:03,971 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
+2023-05-16 17:27:52,332 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
+Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
