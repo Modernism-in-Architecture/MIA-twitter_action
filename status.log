@@ -346,3 +346,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-05-16 17:27:52,332 - __main__ - ERROR - Post tweet failed. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-05-17 17:28:00,606 - __main__ - INFO - Successfully published St. Wenceslas Church (Kostel svatého Václava) on twitter.
+2023-05-18 17:28:08,538 - __main__ - INFO - Successfully published Veverkova 1 on twitter.
