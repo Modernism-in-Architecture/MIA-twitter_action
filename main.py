@@ -1,6 +1,5 @@
 from apis.twitter_api import TwitterAPI
 from apis.mia_api import MiaAPI
-import logging
 import logging.handlers
 
 
@@ -18,7 +17,6 @@ logger.addHandler(logger_file_handler)
 
 
 def main() -> bool:
-
     mia_response, was_successful = MiaAPI.get_mia_building_details()
 
     if not was_successful:
@@ -47,12 +45,11 @@ def main() -> bool:
 
     if not architect:
         tweet_content = f"""New on MIA: {title} ({year}) in {city}, {country}\n#modernism #architecture #bauhaus #neuesbauen #internationalstyle #interwararchitecture #{"".join(city.split(" "))} #{country}\n{url}"""
-    
+
     twitter_response, was_successful = TwitterAPI.tweet_mia_building(tweet_content)
 
     if not was_successful:
         logger.error(f"Post tweet failed. API error occured. ERROR: {twitter_response}")
-        return False
 
     mia_response, was_successful = MiaAPI.set_building_published_on_twitter(building_id)
 
