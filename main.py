@@ -49,7 +49,9 @@ def main() -> bool:
     twitter_response, was_successful = TwitterAPI.tweet_mia_building(tweet_content)
 
     if not was_successful:
-        logger.error(f"Post tweet failed. API error occured. ERROR: {twitter_response}")
+        logger.error(
+            f"Post tweet failed. Building: {building_id}. API error occured. ERROR: {twitter_response}"
+        )
 
     mia_response, was_successful = MiaAPI.set_building_published_on_twitter(building_id)
 
