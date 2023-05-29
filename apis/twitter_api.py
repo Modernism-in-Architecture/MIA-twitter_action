@@ -17,7 +17,8 @@ except KeyError as e:
 
 
 class TwitterAPI:
-    def get_client(self) -> tweepy.Client:
+    @staticmethod
+    def get_client() -> tweepy.Client:
         return tweepy.Client(
             consumer_key=CONSUMER_KEY,
             consumer_secret=CONSUMER_SECRET,
@@ -25,8 +26,8 @@ class TwitterAPI:
             access_token_secret=ACCESS_TOKEN_SECRET,
         )
 
+    @staticmethod
     def tweet_mia_building(
-        self,
         tweet_content: str,
     ) -> Tuple[Union[TweepyException, dict], bool]:
         client = TwitterAPI.get_client()

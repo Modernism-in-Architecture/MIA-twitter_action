@@ -20,9 +20,8 @@ except KeyError as e:
 
 
 class MiaAPI:
-    def get_mia_building_details(
-        self,
-    ) -> Tuple[Union[RequestException, Response], bool]:
+    @staticmethod
+    def get_mia_building_details() -> Tuple[Union[RequestException, Response], bool]:
         building_details_url = (
             f"{MIA_API_BASE_URL}{MIA_API_VERSION_PATH}{MIA_API_PATH_BUILDING_DETAILS}"
         )
@@ -36,8 +35,8 @@ class MiaAPI:
 
         return response, True
 
+    @staticmethod
     def set_building_published_on_twitter(
-        self,
         building_id: int,
     ) -> Tuple[Union[RequestException, Response], bool]:
         published_on_twitter_url = f"{MIA_API_BASE_URL}{MIA_API_VERSION_PATH}{building_id}{MIA_API_PATH_PUBLISHED}"
