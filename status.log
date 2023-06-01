@@ -368,3 +368,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-05-31 17:28:00,023 - __main__ - ERROR - Post tweet failed. Building: 802. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-05-31 17:28:00,730 - __main__ - INFO - Successfully published Holy Trinity Catholic Parish Church (Katholische Pfarrkirche Zur Heiligsten Dreieinigkeit) on twitter.
+2023-06-01 17:28:03,417 - __main__ - INFO - Successfully published House of Georg Boock on twitter.
