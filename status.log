@@ -496,3 +496,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-10-03 17:27:54,585 - __main__ - ERROR - Post tweet failed. Building: 354. API error occured. ERROR: 400 Bad Request
 Your Tweet text is too long. For more information on how Twitter determines text length see https://github.com/twitter/twitter-text.
 2023-10-03 17:27:55,019 - __main__ - INFO - Successfully published Control room and converter station of the North power station (Schaltwarte und Umformerwerk am Kraftwerk Nord) on twitter.
+2023-10-04 17:28:47,536 - __main__ - INFO - Successfully published Václav Ševčík's house (Dům Václava Ševčíka) on twitter.
