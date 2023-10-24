@@ -516,3 +516,6 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-10-21 17:27:55,249 - __main__ - INFO - Successfully published Kindergarten Sbíhavá (Mateřská škola Sbíhavá) on twitter.
 2023-10-22 17:28:02,319 - __main__ - INFO - Successfully published Kotlářská 34-50 on twitter.
 2023-10-23 17:27:54,471 - __main__ - INFO - Successfully published House of Karel Teige (Dům Karla Teigeho) on twitter.
+2023-10-24 17:29:37,520 - __main__ - ERROR - Post tweet failed. Building: 333. API error occured. ERROR: 503 Service Unavailable
+Service Unavailable
+2023-10-24 17:29:38,132 - __main__ - INFO - Successfully published Church of the Elevation of the Holy Cross (Kostol Povýšenia svätého Kríža) on twitter.
