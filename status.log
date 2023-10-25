@@ -519,3 +519,4 @@ Your Tweet text is too long. For more information on how Twitter determines text
 2023-10-24 17:29:37,520 - __main__ - ERROR - Post tweet failed. Building: 333. API error occured. ERROR: 503 Service Unavailable
 Service Unavailable
 2023-10-24 17:29:38,132 - __main__ - INFO - Successfully published Church of the Elevation of the Holy Cross (Kostol Povýšenia svätého Kríža) on twitter.
+2023-10-25 17:28:02,108 - __main__ - INFO - Successfully published Rijeka's Skycraper (Riječki neboder) on twitter.
