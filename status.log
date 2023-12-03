@@ -558,3 +558,4 @@ Service Unavailable
 2023-11-30 17:29:59,402 - __main__ - INFO - Successfully published Women's homes (Ženské domovy) on twitter.
 2023-12-01 17:29:10,605 - __main__ - INFO - Successfully published Kostel svatého Jana Nepomuckého (Church of St. John of Nepomuk) on twitter.
 2023-12-02 17:28:22,749 - __main__ - INFO - Successfully published Villa U Mrázovky 9 on twitter.
+2023-12-03 17:27:57,668 - __main__ - ERROR - Retrieving building details failed. API error occured. ERROR: HTTPSConnectionPool(host='modernism-in-architecture.org', port=443): Max retries exceeded with url: /api/v1/twitter/get_building_details/ (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1129)')))
