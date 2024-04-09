@@ -686,3 +686,4 @@ Service Unavailable
 2024-04-06 17:27:51,843 - __main__ - INFO - Successfully published Geismar Landstraße on twitter.
 2024-04-07 17:28:33,487 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-04-08 17:29:30,884 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
+2024-04-09 17:28:08,959 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
