@@ -700,3 +700,4 @@ Service Unavailable
 2024-04-20 17:28:44,525 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-04-21 17:28:42,281 - __main__ - INFO - Successfully published Masarykovo nábřeží 38 on twitter.
 2024-04-22 17:28:10,474 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
+2024-04-23 17:29:53,917 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
