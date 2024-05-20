@@ -727,3 +727,4 @@ Service Unavailable
 2024-05-17 17:29:33,931 - __main__ - INFO - Successfully published 14 Nguyễn Gia Thiều on twitter.
 2024-05-18 17:28:09,574 - __main__ - INFO - Successfully published Villa of Vi Văn Định on twitter.
 2024-05-19 17:28:34,578 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
+2024-05-20 17:30:23,621 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
