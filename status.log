@@ -730,3 +730,4 @@ Service Unavailable
 2024-05-20 17:30:23,621 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-05-21 17:28:48,465 - __main__ - INFO - Successfully published Courier Office on twitter.
 2024-05-22 17:28:52,510 - __main__ - INFO - Successfully published Terminal Railway Post Office on twitter.
+2024-05-23 17:30:48,025 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
