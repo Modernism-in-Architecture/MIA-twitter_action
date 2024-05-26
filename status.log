@@ -733,3 +733,4 @@ Service Unavailable
 2024-05-23 17:30:48,025 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-05-24 17:30:39,455 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-05-25 17:30:51,497 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
+2024-05-26 17:29:12,259 - __main__ - INFO - Successfully published Tagblatt Tower on twitter.
