@@ -743,3 +743,4 @@ Service Unavailable
 2024-06-02 17:29:39,444 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-06-03 17:28:41,598 - __main__ - INFO - Successfully published Filippou 11 on twitter.
 2024-06-04 17:28:50,729 - __main__ - INFO - Successfully published Al. Svolou 44 on twitter.
+2024-06-05 17:29:59,804 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
