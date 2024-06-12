@@ -750,3 +750,4 @@ Service Unavailable
 2024-06-09 17:29:36,438 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-06-10 17:29:45,989 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-06-11 17:31:08,197 - __main__ - INFO - Successfully published Machnáč on twitter.
+2024-06-12 17:29:21,185 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
