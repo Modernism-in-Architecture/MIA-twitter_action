@@ -761,3 +761,4 @@ Service Unavailable
 2024-06-20 17:28:41,858 - __main__ - INFO - Successfully published Stazione di Castellammare di Stabia on twitter.
 2024-06-21 17:30:45,294 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-06-22 17:29:41,833 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
+2024-06-23 17:28:07,875 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
