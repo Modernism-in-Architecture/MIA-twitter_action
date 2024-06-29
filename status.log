@@ -767,3 +767,4 @@ Service Unavailable
 2024-06-26 17:29:19,392 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-06-27 17:31:03,876 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-06-28 17:30:27,374 - __main__ - INFO - Successfully published Train Station Trenčín on twitter.
+2024-06-29 17:28:49,539 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
