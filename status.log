@@ -783,3 +783,4 @@ Service Unavailable
 2024-07-12 17:30:31,534 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-07-13 17:28:02,210 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-07-14 17:43:54,199 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
+2024-07-15 17:30:08,440 - __main__ - INFO - Successfully published Horná Sihoť on twitter.
