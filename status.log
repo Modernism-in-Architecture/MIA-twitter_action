@@ -789,3 +789,4 @@ Service Unavailable
 2024-07-18 17:29:26,365 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-07-19 17:32:25,834 - __main__ - INFO - Successfully published Municipal Savings Bank Trenčín on twitter.
 2024-07-20 17:29:08,987 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
+2024-07-21 17:28:00,477 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
