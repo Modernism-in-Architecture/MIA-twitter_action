@@ -791,3 +791,4 @@ Service Unavailable
 2024-07-20 17:29:08,987 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-07-21 17:28:00,477 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-07-22 17:30:11,565 - __main__ - INFO - Successfully published Green Frog on twitter.
+2024-07-23 17:30:47,212 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
