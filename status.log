@@ -795,3 +795,4 @@ Service Unavailable
 2024-07-24 17:29:28,930 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-07-25 17:31:16,015 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-07-26 17:29:08,532 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
+2024-07-27 17:28:32,639 - __main__ - INFO - Successfully published Music pavilion on twitter.
