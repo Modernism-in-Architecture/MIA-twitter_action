@@ -803,3 +803,4 @@ Service Unavailable
 2024-08-01 17:30:52,580 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-08-02 17:29:24,379 - __main__ - INFO - Successfully published Badeplatz on twitter.
 2024-08-03 17:28:36,648 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
+2024-08-04 17:29:18,094 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
