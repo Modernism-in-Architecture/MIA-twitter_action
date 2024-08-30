@@ -829,3 +829,4 @@ Service Unavailable
 2024-08-27 17:30:20,778 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-08-28 17:31:37,295 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-08-29 17:30:43,241 - __main__ - INFO - Successfully published Piston house on twitter.
+2024-08-30 17:31:34,455 - __main__ - INFO - Successfully published Dunapark House on twitter.
