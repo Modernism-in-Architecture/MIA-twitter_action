@@ -870,3 +870,4 @@ Service Unavailable
 2024-10-07 17:33:16,051 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-10-08 17:32:57,554 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-10-09 17:34:56,920 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
+2024-10-10 17:34:00,935 - __main__ - INFO - Successfully published Petőfi Sándor utca 12 on twitter.
