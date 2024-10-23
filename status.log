@@ -883,3 +883,4 @@ Service Unavailable
 2024-10-20 17:32:35,294 - __main__ - INFO - Successfully published Rumbach Sebestyén utca 17 on twitter.
 2024-10-21 17:33:35,348 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-10-22 17:32:47,449 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
+2024-10-23 17:33:35,472 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
