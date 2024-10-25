@@ -885,3 +885,4 @@ Service Unavailable
 2024-10-22 17:32:47,449 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-10-23 17:33:35,472 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
 2024-10-24 17:32:26,381 - __main__ - ERROR - Retrieving building details was not successful. STATUS: 404
+2024-10-25 17:33:05,887 - __main__ - INFO - Successfully published Le Cercle on twitter.
